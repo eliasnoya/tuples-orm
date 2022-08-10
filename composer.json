@@ -1,0 +1,18 @@
+{
+    "name": "eliasnoya/tuples-orm",
+    "description": "Simple ORM for PHP 7.4+",
+    "license": "public",
+    "autoload": {
+        "psr-4": {
+            "TuplesOrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elias Noya",
+            "email": "eliasnoya@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
