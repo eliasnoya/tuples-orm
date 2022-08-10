@@ -1,7 +1,7 @@
 {
     "name": "eliasnoya/tuples-orm",
     "description": "Simple ORM for PHP 7.4+",
-    "license": "public",
+    "license": "Apache-2.0",
     "autoload": {
         "psr-4": {
             "TuplesOrm\\": "src/"
